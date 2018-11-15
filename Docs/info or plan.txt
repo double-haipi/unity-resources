@@ -1,0 +1,2 @@
+//Todo
+1.lua 引用c# 对象检查工具,把获取luaState指针那块代码改掉,改成从gamesvr gameObject获取.
